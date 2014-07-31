@@ -1,0 +1,8 @@
+{
+  "name": "stache-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "stache-loader.js",
+  "author": "vladikoff",
+  "license": "MIT"
+}
